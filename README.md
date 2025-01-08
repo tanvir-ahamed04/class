@@ -21,5 +21,3 @@ Replace `script_name.py` with the name of the script you want to run.
 
 This project is licensed under the MIT License.
 ```
-
-You can copy this text and place it in a `README.md` file in your repository.
